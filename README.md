@@ -1,2 +1,3 @@
 # Calculadora
-Primary Project Alone
+
+Projeto que consite em aperfecoar habilidades de HTML, CSS E JAVASCRIPT
